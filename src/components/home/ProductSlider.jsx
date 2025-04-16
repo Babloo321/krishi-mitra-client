@@ -8,7 +8,7 @@ const ProductSlider = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const res = await AxiosPublic.get('https://krishi-mitra-backend-1.onrender.com/api/v2/product/getProducts',{withCredentials:true});
+        const res = await AxiosPublic.get('/product/getProducts',{withCredentials:true});
         setProducts(res.data.data || []);
       } catch (error) {
         console.error("Error fetching products:", error);
