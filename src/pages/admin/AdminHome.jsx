@@ -6,7 +6,7 @@ const AdminHome = () => {
 
   const fetchUsers = async () => {
     try {
-      const res = await axios.get("http://localhost:4040/api/v2/admin/get/allUsers", { withCredentials: true });
+      const res = await axios.get("https://krishi-mitra-backend-1.onrender.com/api/v2/admin/get/allUsers", { withCredentials: true });
       setUsers(res.data.data || []);
     } catch (err) {
       console.error("Failed to fetch users", err);
