@@ -1,0 +1,69 @@
+{
+  "dashboard":"Dashboard",
+  "profile":"Profile",
+  "contact":"Contact Us",
+  "product":"Product",
+  "join":"Join Now",
+  "login": "Login",
+  "signup": "Sign Up",
+  "apply":"Apply Now",
+  "language":"Language",
+
+  "beforeLoginHeading":"Empowering Farmers. Fairly.",
+  "beforeLoginParagraph":"A digital platform helping farmers sell their produce at fair prices, access inputs on credit, and grow confidently. ",
+  
+  "beforeLoginSec1Heading":"About the Platform",
+  "beforeLoginSec1Paragraph":"Our mission is to create a reliable ecosystem where farmers can sell directly at company-fixed fair prices, receive seeds and fertilizers at cost, and access interest-free credit for 3 months.",
+  
+  "beforeLoginSec2Cont1Heading":"Fair Price Selling",
+  "beforeLoginSec2Cont1Paragraph":"Sell produce directly to buyers at guaranteed company-set rates—no middlemen involved.",
+  
+  "beforeLoginSec2Cont2Heading":"Zero-Interest Credit",
+  "beforeLoginSec2Cont2Paragraph":"Get seeds and fertilizers on credit with 0% interest if repaid within 3 months.",
+  
+  "beforeLoginSec2Cont3Heading":"Affordable Inputs",
+  "beforeLoginSec2Cont3Paragraph":"Access high-quality seeds and fertilizers at cost—no markups, no exploitation.",
+ 
+  "beforeLoginSec2Cont4Heading":"Flexible Repayment Options",
+  "beforeLoginSec2Cont4Paragraph":" Missed the 3-month window? Get 3% monthly interest if sold via platform, 7% otherwise.",
+ 
+  "beforeLoginSec2Cont5Heading":"Digital Farmer Profiles",
+  "beforeLoginSec2Cont5Paragraph":"Maintain a digital profile with land, crop, and transaction details for easier credit & services.",
+  
+  "beforeLoginSec2Cont6Heading":"Support & Education",
+  "beforeLoginSec2Cont6Paragraph":"Get farming tips, government scheme updates, and NGO assistance—all in your language.",
+
+  "beforeLoginSec3Heading":"Ready to grow with us?",
+
+  
+  "welcome": "Welcome to Krishi-Mitra",
+  "heading": "Empowering Farmers and Buyers through a Transparent Agriculture Platform",
+  "krishi": "Krishi-Mitra",
+  "farmer": "For Farmer",
+  "buyer": "For Buyers",
+ 
+  "mission": "Our Mission",
+  "missionContent": "We are committed to supporting India's farmers by providing fair pricing, affordable agricultural inputs, and a platform to connect with trusted buyers. Our mission is to simplify the agricultural ecosystem through technology.",
+ 
+  "service": "Services We Offer",
+  "farmerService1": "Apply online for fertilizers and seeds with flexible credit options",
+  "farmerService2": "Sell your crops/products via online form submission",
+  "farmerService3": "Get guaranteed, fair prices set by the platform",
+  "farmerService4": "Receive support through WhatsApp/SMS alerts",
+  "farmerService5": "Access farming tips and government/NGO programs",
+  
+  "buyerService1": "Fill out the website form to buy fresh produce directly.",
+  "buyerServic2": "Get admin support for any queries or product concerns",
+  
+  "adminHelp": "Admin can help",
+  "adminHelp1": "Manage and approve seed/fertilizer requests",
+  "adminHelp2": "Verify product listings",
+  "adminHelp3": "Resolve farmer and buyer queries",
+  "adminHelp4": "Oversee platform activities and ensure transparency",
+  
+  "footerContent":"Krishi-Mitra is a platform dedicated to supporting farmers and buyers. We help farmers sell their produce at fair prices, access seeds and fertilizers online, and get credit with flexible repayment. Buyers can raise queries and connect easily.",
+
+  "farmerFormContHeading":"Join the Agriculture Revolution",
+  "farmerFormContParagraph":"Take control of your farming journey today. Apply online for seeds, fertilizers, or start selling your crops with ease!"
+  
+}
