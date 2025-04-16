@@ -13,7 +13,7 @@ const ProductManager = () => {
 
   const fetchProducts = async () => {
     try {
-      const res = await axios.get('http://localhost:4040/api/v2/product/getProducts', { withCredentials: true });
+      const res = await axios.get('https://krishi-mitra-backend-1.onrender.com/api/v2/product/getProducts', { withCredentials: true });
       setProducts(res.data.data || []);
     } catch (error) {
       toast.error('Failed to fetch products');
@@ -52,7 +52,7 @@ const ProductManager = () => {
 
   const handleDelete = async (id) => {
     try {
-      const res = await axios.delete(`http://localhost:4040/api/v2/product/delete/${id}`, {
+      const res = await axios.delete(`https://krishi-mitra-backend-1.onrender.com/api/v2/product/delete/${id}`, {
         withCredentials: true,
       });
       console.log("res: ",res)
@@ -85,7 +85,7 @@ const ProductManager = () => {
       if (selectedProducts.length === 0) return;
   
       const idsParam = selectedProducts.join(',');
-      const res = await axios.delete(`http://localhost:4040/api/v2/product/delete/${idsParam}`, {
+      const res = await axios.delete(`https://krishi-mitra-backend-1.onrender.com/api/v2/product/delete/${idsParam}`, {
         withCredentials: true,
       });
       console.log("res: ",res);
